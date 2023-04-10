@@ -1,0 +1,16 @@
+name: CultureBook
+id: ari:cloud:compass:4a538ecb-95cc-4c0b-8b16-25736be28deb:component/e7cb1299-05ac-45dd-b7bd-07d489d90f82/b7472b09-2685-4be1-bccb-f96a4a33bd44
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/TheBlackTuxCorp/CultureBook
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
